@@ -13,3 +13,7 @@ Art and synthesized effects were authored for this entry. The original MIT LICEN
 [![make.fun](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/c/best-spot-the-difference-game-20261121-0451)
 [![Rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/botieno827-beep/spotdiff-entry/rank.svg)](https://make.fun/c/best-spot-the-difference-game-20261121-0451)
 [![Reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/botieno827-beep/spotdiff-entry/reward.svg)](https://make.fun/c/best-spot-the-difference-game-20261121-0451)
+
+The scene variants are now drawn inside their own objects: a clock on a harbor turret, a lighthouse flag, sail stripe and mooring post; market lanterns, crate, awning, scooter and shop; moon, cups, sleeping cat, neon, skyline window, leaf and cushion; koi, lily pad, hanging flower, watering can, hinged glass vent, fern, cloud and sign. Oval hit regions cover each object, including long signs.
+
+The capture command also saves `verification/title-menu.png` for local inspection. Only the four active-play PNGs under `screenshots/` are handed in, as the kit permits at most four. Browser verification checks every target in both panels, edge clicks, zoomed clicking, hints, wrong-click penalties, mute, chapter navigation, offline loading and screenshot byte caps.
