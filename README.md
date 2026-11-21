@@ -9,3 +9,7 @@ Run `node serve.ts`, then open http://localhost:8080. Click either picture. H gi
 `MAKEFUN_OUTPUT_DIR=out node main.ts` packages the static files, screenshots and the unchanged kit dossier generator. This kit does not publish its scorer; grading happens on make.fun.
 
 Art and synthesized effects were authored for this entry. The original MIT LICENSE is retained, with an SPDX declaration added for the submission checker.
+
+[![make.fun](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/c/best-spot-the-difference-game-20261121-0451)
+[![Rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/botieno827-beep/spotdiff-entry/rank.svg)](https://make.fun/c/best-spot-the-difference-game-20261121-0451)
+[![Reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/botieno827-beep/spotdiff-entry/reward.svg)](https://make.fun/c/best-spot-the-difference-game-20261121-0451)
